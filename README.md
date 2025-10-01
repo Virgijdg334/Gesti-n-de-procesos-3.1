@@ -34,6 +34,7 @@ target/miapp.jar
 Disponer de un archivo de prueba llamado entrada.txt.
 
 🚀 Ejecución de cada aplicación
+
 1️⃣ lectorTexto
 Lee el archivo entrada.txt y muestra su contenido.
 
